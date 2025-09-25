@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAqLib_documentation_website=self.webpackChunkAqLib_documentation_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/AqLib-Website/snippets","blogTitle":"Snippets Collection","authorsListPath":"/AqLib-Website/snippets/authors"}')}}]);
