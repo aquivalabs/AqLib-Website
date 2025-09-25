@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAqLib_documentation_website=self.webpackChunkAqLib_documentation_website||[]).push([[9860],{25195:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/snippets","page":1,"postsPerPage":5,"totalPages":1,"totalCount":5,"blogDescription":"Snippets for all occasions","blogTitle":"Snippets Collection"}}')}}]);
