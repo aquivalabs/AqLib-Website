@@ -3,26 +3,26 @@
   "name": "AqLib - Salesforce Components library by Aquiva Labs",
   "icons": [
     {
-      "src": "/img/AppIcon_512x512x32.png",
+      "src": "/AqLib-Website/img/AppIcon_512x512x32.png",
       "type": "image/svg+xml",
       "sizes": "512x512"
     },
     {
-      "src": "/img/AppIcon_256x256x32.png",
+      "src": "/AqLib-Website/img/AppIcon_256x256x32.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/AppIcon_512x512x32.png",
+      "src": "/AqLib-Website/img/AppIcon_512x512x32.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "id": "/AqLib-Website/?source=pwa",
+  "start_url": "/AqLib-Website/?source=pwa",
   "background_color": "#6798cd",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/AqLib-Website/",
   "theme_color": "#6798cd",
   "description": "Salesforce Components library by Aquiva Labs"
 }
